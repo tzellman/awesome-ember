@@ -2,19 +2,21 @@
 
 A curated list of awesome [Ember.js](https://emberjs.com/) things inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome).
 
+## Learning Resources
+- [Official Guides](https://guides.emberjs.com/release/)
+- [Official Ember Blog](https://emberjs.com/blog/)
+
+### Publications
+- [Ember.js Times](https://the-emberjs-times.ongoodbits.com/)
+- [Ember Weekly](http://emberweekly.com/)
+
+### Podcasts
+- [EmberMap](https://embermap.com/podcast) - Ember-related discussion with a typical 1-week cadence
+
 ## Community
 - [Ember Community Discord](https://discordapp.com/invite/zT3asNS) - active community with curated topics/discussions
 - [StackOverflow](http://stackoverflow.com/questions/tagged/ember.js) - questions tagged with `ember.js`
 - [Ember Discussion Forum](http://discuss.emberjs.com/)
-
-## Podcasts
-- [EmberMap](https://embermap.com/podcast) - Ember-related discussion with a typical 1-week cadence
-
-## Learning Resources
-- [Official Guides](https://guides.emberjs.com/release/)
-- [Official Ember Blog](https://emberjs.com/blog/)
-- [Ember.js Times](https://the-emberjs-times.ongoodbits.com/)
-- [Ember Weekly](http://emberweekly.com/)
 
 ## Code
 - [emberjs/rfcs](https://github.com/emberjs/rfcs) - ember RFCs repo (great place to learn about and participate in where ember is heading)
@@ -23,12 +25,23 @@ A curated list of awesome [Ember.js](https://emberjs.com/) things inspired by [@
 - [ember-cli/ember-cli](https://github.com/ember-cli/ember-cli) - ember-cli repo
 
 ### Ember Apps in the Wild
-- [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember app that is nearly 100% typescript
+- [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember app that is nearly 100% typescript ([osf.io](https://osf.io))
+- [emberobserver/client](https://github.com/emberobserver/client) - the frontend code for the [Ember Observer](https://emberobserver.com/) website
+- [Ghost-Admin](https://github.com/TryGhost/Ghost-Admin) - [Ghost's](https://ghost.org) admin client
 
 ## Addons / Support
 - [ember-cli](https://ember-cli.com/) - Documentation for the ember-cli
 - [Ember Observer](https://emberobserver.com/) - the best way to discover and compare ember-cli addons
 
+### Awesome Addons
+- [ember-animated](https://github.com/ember-animation/ember-animated) - Core animation primitives for Ember
+- [ember-auto-import](https://github.com/ef4/ember-auto-import) - Zero config import from npm packages
+- [ember-cli-mirage](https://github.com/samselikoff/ember-cli-mirage) - A client-side server to develop, test and prototype your Ember CLI app
+- [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Adds [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/) to your app or addon
+- [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for Ember that enables more declarative templating
+- [ember-concurrency](https://github.com/machty/ember-concurrency) - Ember Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks
+- [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - A library for implementing authentication/authorization in Ember.js applications
+- [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - HTMLBars template helpers for additional truth logic in `if` and `unless` statements
 
 License
 =======================================================================
