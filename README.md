@@ -22,6 +22,9 @@ A curated list of awesome [Ember.js](https://emberjs.com/) things inspired by [@
 - [emberjs/data](https://github.com/emberjs/data) - ember-data repo
 - [ember-cli/ember-cli](https://github.com/ember-cli/ember-cli) - ember-cli repo
 
+### Ember Apps in the Wild
+- [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember app that is nearly 100% typescript
+
 ## Addons / Support
 - [ember-cli](https://ember-cli.com/) - Documentation for the ember-cli
 - [Ember Observer](https://emberobserver.com/) - the best way to discover and compare ember-cli addons
