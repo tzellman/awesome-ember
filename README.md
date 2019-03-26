@@ -18,6 +18,14 @@ A curated list of awesome [Ember.js](https://emberjs.com/) things inspired by [@
 - [StackOverflow](http://stackoverflow.com/questions/tagged/ember.js) - questions tagged with `ember.js`
 - [Ember Discussion Forum](http://discuss.emberjs.com/)
 
+### EmberConf Videos
+- [EmberConf 2019](https://www.youtube.com/watch?v=O3RKLHvpUAI)
+- [EmberConf 2018](https://www.youtube.com/playlist?list=PLE7tQUdRKcybgng3wPvbSYg3yYt1WVmsL)
+- [EmberConf 2017](https://www.youtube.com/playlist?list=PLE7tQUdRKcybcmn3haSNio6p7rKrdNqTF)
+- [EmberConf 2016](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYzUUTUJ4LwayKH8p5spYvv)
+- [EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU)
+- [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d)
+
 ## Code
 - [emberjs/rfcs](https://github.com/emberjs/rfcs) - ember RFCs repo (great place to learn about and participate in where ember is heading)
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - main Ember source repo
@@ -28,6 +36,7 @@ A curated list of awesome [Ember.js](https://emberjs.com/) things inspired by [@
 - [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember app that is nearly 100% typescript ([osf.io](https://osf.io))
 - [emberobserver/client](https://github.com/emberobserver/client) - the frontend code for the [Ember Observer](https://emberobserver.com/) website
 - [Ghost-Admin](https://github.com/TryGhost/Ghost-Admin) - [Ghost's](https://ghost.org) admin client
+- [builtwithember.io](http://builtwithember.io) - feed of ambitious web applications built using Ember.js
 
 ## Addons / Support
 - [ember-cli](https://ember-cli.com/) - Documentation for the ember-cli
